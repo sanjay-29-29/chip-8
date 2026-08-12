@@ -19,7 +19,6 @@ Example:
 cargo run -- "roms/IBM Logo.ch8"
 ```
 
-## Status
+## Note
 
-Work in progress.
-
+Audio is not implemented.
